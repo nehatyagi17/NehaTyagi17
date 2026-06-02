@@ -64,30 +64,6 @@ Computer Science Engineering student skilled in full-stack development 💻 and 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nehatyagi17&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehatyagi17&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehatyagi17&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nehatyagi17&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
