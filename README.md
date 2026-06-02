@@ -1,30 +1,59 @@
+````markdown
 <h1 align="center">Hi 👋, I'm Neha Tyagi</h1>
 
 <h3 align="center">
-Full Stack Developer | AI & ML Enthusiast | Problem Solver
+✨ Full Stack Developer | AI & ML Enthusiast | Problem Solver ✨
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Problem+Solver;Cloud+Computing+Learner&center=true&width=600&height=50">
+  <img src="Luffy GIF - Luffy - Discover & Share GIFs.gif" width="350">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Cloud+Computing+Learner;Always+Learning+Something+New+🚀">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nehatyagi17&label=Profile%20Views&color=ff69b4&style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://github.com/nehatyagi17">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/neha-tyagi-17may2005/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://portfolio-six-steel-74.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 🌸 About Me
 
-Computer Science Engineering student skilled in full-stack development 💻 and machine learning 🤖, building real-world software focused on scalable applications, intelligent systems, and practical impact. Worked on projects involving AI-powered recruitment platforms 👨‍💼, price prediction systems 📈, smart ration management solutions 🔒, alumni networking portals 🎓, rental accommodation platforms 🏠, and web-based application development 🌐, with an emphasis on clean architecture 🏗️, data-driven decision making 📊, and problem solving 🔍.
+> ***"Dream big, stay curious, and keep building."*** ✨
 
-- 🌍 I'm based in Dehradun, Uttarakhand, India
-- 🎓 B.Tech Computer Science Engineering Student at Graphic Era Hill University
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI
-- ☁️ Passionate about Cloud Computing, Backend Development, and Scalable Systems
-- 🚀 Building AI-powered solutions such as TalentSync-AI and Blinkit Price Prediction
-- 🌱 Currently learning Full-Stack Development, LLMs, MLOps, and Modern Software Engineering
-- 📫 You can contact me at **nehatyagi1717@gmail.com**
+🎓 **Computer Science Engineering Student** at **Graphic Era Hill University**
+
+💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing**
+
+🚀 Building impactful software solutions focused on real-world applications and innovation.
+
+### ✨ Highlights
+
+- 🌍 **Based in:** Dehradun, Uttarakhand, India
+- 🎓 **Pursuing:** B.Tech in Computer Science Engineering
+- 🤖 **Interested in:** Artificial Intelligence, Machine Learning & Generative AI
+- ☁️ **Exploring:** Cloud Computing, Backend Development & Scalable Systems
+- 🚀 **Building:** TalentSync-AI, Blinkit Price Prediction, Secure Rashan & Alumni Portal
+- 🌱 **Currently Learning:** LLMs, MLOps, System Design & Modern Software Engineering
+- 📫 **Email:** `nehatyagi1717@gmail.com`
 
 ---
 
-## 🛠️ Skills
+# ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nodejs,express,django,mysql,postgresql,mongodb,firebase,git,github,docker,aws,linux,vscode,tensorflow,pytorch&perline=8" />
@@ -32,7 +61,21 @@ Computer Science Engineering student skilled in full-stack development 💻 and 
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
+
+| 🌟 Project | 📖 Description |
+|-----------|---------------|
+| 🤖 **TalentSync-AI** | AI-powered recruitment and hiring platform |
+| 📈 **Blinkit Price Prediction** | Machine Learning-based forecasting system |
+| 🔒 **Secure Rashan** | Smart ration distribution management platform |
+| 🏠 **PGify** | Student accommodation management system |
+| 🎓 **Alumni Portal** | Alumni networking and management platform |
+| 🚨 **Rakshak App** | Emergency assistance and safety application |
+| 🌐 **Vanshi** | Full-stack web application |
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/nehatyagi17">
@@ -44,43 +87,21 @@ Computer Science Engineering student skilled in full-stack development 💻 and 
 </a>
 
 <a href="https://portfolio-six-steel-74.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge" />
 </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|----------|------------|
-| TalentSync-AI | AI-powered recruitment and hiring platform |
-| Blinkit Price Prediction | Machine Learning-based price prediction system |
-| Secure Rashan | Smart ration distribution management platform |
-| PGify | Student accommodation management system |
-| Alumni Portal | Alumni networking and management platform |
-| Rakshak App | Emergency assistance and safety application |
-| Vanshi | Full-stack web application |
-
----
-
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehatyagi17&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehatyagi17&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nehatyagi17&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
-## 💡 Current Focus
+# 🎯 Current Focus
 
 ```text
 ✓ Full Stack Development
@@ -91,18 +112,36 @@ Computer Science Engineering student skilled in full-stack development 💻 and 
 ✓ Open Source Contributions
 ✓ System Design
 ✓ Data Structures & Algorithms
-```
+````
 
 ---
 
-## ⚡ Fun Fact
+# 🌱 Currently Exploring
 
-💡 I enjoy building AI-powered applications that solve real-world problems and continuously improving my skills through coding, open-source contributions, and innovative software projects.
+* 🔥 Generative AI
+* 🤖 Large Language Models (LLMs)
+* ☁️ AWS & Cloud Computing
+* 🏗️ System Design
+* ⚙️ Backend Architecture
+* 📊 Data Engineering
+
+---
+
+# 💫 Fun Fact
+
+💡 *I enjoy building AI-powered applications that solve real-world problems and continuously improving my skills through coding, open-source contributions, and innovative software projects.*
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile ⭐
+
+<img src="Luffy GIF - Luffy - Discover & Share GIFs.gif" width="220">
+
+### 🏴‍☠️ Keep Learning • Keep Building • Never Give Up 🚀
+
+*"The moment people come to know love, they run the risk of carrying hate."* — One Piece
 
 </div>
+```
