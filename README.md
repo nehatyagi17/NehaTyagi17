@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">Hi 👋, I'm Neha Tyagi</h1>
 
 <h3 align="center">
@@ -6,15 +5,11 @@
 </h3>
 
 <p align="center">
-  <img src="Luffy GIF - Luffy - Discover & Share GIFs.gif" width="350">
+  <img src="luffy.gif" width="320" alt="Luffy">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Cloud+Computing+Learner;Always+Learning+Something+New+🚀">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nehatyagi17&label=Profile%20Views&color=ff69b4&style=for-the-badge">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Cloud+Computing+Learner;Always+Learning+Something+New+🚀">
 </p>
 
 <p align="center">
@@ -29,27 +24,31 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nehatyagi17&label=Profile%20Views&color=ff69b4&style=for-the-badge">
+</p>
+
 ---
 
 # 🌸 About Me
 
 > ***"Dream big, stay curious, and keep building."*** ✨
 
-🎓 **Computer Science Engineering Student** at **Graphic Era Hill University**
+🎓 **B.Tech Computer Science Engineering Student** at **Graphic Era Hill University**
 
 💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing**
 
-🚀 Building impactful software solutions focused on real-world applications and innovation.
+🚀 Building impactful software solutions focused on solving real-world problems.
 
 ### ✨ Highlights
 
-- 🌍 **Based in:** Dehradun, Uttarakhand, India
-- 🎓 **Pursuing:** B.Tech in Computer Science Engineering
-- 🤖 **Interested in:** Artificial Intelligence, Machine Learning & Generative AI
-- ☁️ **Exploring:** Cloud Computing, Backend Development & Scalable Systems
-- 🚀 **Building:** TalentSync-AI, Blinkit Price Prediction, Secure Rashan & Alumni Portal
-- 🌱 **Currently Learning:** LLMs, MLOps, System Design & Modern Software Engineering
-- 📫 **Email:** `nehatyagi1717@gmail.com`
+- 🌍 Based in **Dehradun, Uttarakhand, India**
+- 🎓 Pursuing **B.Tech in Computer Science Engineering**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning & Generative AI**
+- ☁️ Exploring **Cloud Computing, Backend Development & Scalable Systems**
+- 🚀 Building projects like **TalentSync-AI**, **Blinkit Price Prediction**, **Secure Rashan**, and **Alumni Portal**
+- 🌱 Learning **LLMs, MLOps, System Design & Modern Software Engineering**
+- 📫 Reach me at **nehatyagi1717@gmail.com**
 
 ---
 
@@ -63,15 +62,15 @@
 
 # 🚀 Featured Projects
 
-| 🌟 Project | 📖 Description |
-|-----------|---------------|
-| 🤖 **TalentSync-AI** | AI-powered recruitment and hiring platform |
-| 📈 **Blinkit Price Prediction** | Machine Learning-based forecasting system |
-| 🔒 **Secure Rashan** | Smart ration distribution management platform |
-| 🏠 **PGify** | Student accommodation management system |
-| 🎓 **Alumni Portal** | Alumni networking and management platform |
-| 🚨 **Rakshak App** | Emergency assistance and safety application |
-| 🌐 **Vanshi** | Full-stack web application |
+| Project | Description |
+|----------|------------|
+| 🤖 TalentSync-AI | AI-powered recruitment and hiring platform |
+| 📈 Blinkit Price Prediction | Machine Learning-based forecasting system |
+| 🔒 Secure Rashan | Smart ration distribution management platform |
+| 🏠 PGify | Student accommodation management system |
+| 🎓 Alumni Portal | Alumni networking and management platform |
+| 🚨 Rakshak App | Emergency assistance and safety application |
+| 🌐 Vanshi | Full-stack web application |
 
 ---
 
@@ -103,45 +102,43 @@
 
 # 🎯 Current Focus
 
-```text
-✓ Full Stack Development
-✓ Artificial Intelligence
-✓ Machine Learning
-✓ Large Language Models (LLMs)
-✓ Cloud Computing
-✓ Open Source Contributions
-✓ System Design
-✓ Data Structures & Algorithms
-````
+- ✅ Full Stack Development
+- ✅ Artificial Intelligence
+- ✅ Machine Learning
+- ✅ Large Language Models (LLMs)
+- ✅ Cloud Computing
+- ✅ Open Source Contributions
+- ✅ System Design
+- ✅ Data Structures & Algorithms
 
 ---
 
 # 🌱 Currently Exploring
 
-* 🔥 Generative AI
-* 🤖 Large Language Models (LLMs)
-* ☁️ AWS & Cloud Computing
-* 🏗️ System Design
-* ⚙️ Backend Architecture
-* 📊 Data Engineering
+- 🔥 Generative AI
+- 🤖 Large Language Models (LLMs)
+- ☁️ AWS & Cloud Computing
+- 🏗️ System Design
+- ⚙️ Backend Architecture
+- 📊 Data Engineering
+
 
 ---
-
 # 💫 Fun Fact
 
-💡 *I enjoy building AI-powered applications that solve real-world problems and continuously improving my skills through coding, open-source contributions, and innovative software projects.*
+💡 I enjoy building AI-powered applications that solve real-world problems and continuously improving my skills through coding, open-source contributions, and innovative software projects.
 
----
+
+<p align="center">
+  <img src="Luffy%20GIF%20-%20Luffy%20-%20Discover%20%26%20Share%20GIFs.gif" width="320" alt="Luffy">
+</p>
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile ⭐
 
-<img src="Luffy GIF - Luffy - Discover & Share GIFs.gif" width="220">
+🏴‍☠️ **Keep Learning • Keep Building • Never Give Up 🚀**
 
-### 🏴‍☠️ Keep Learning • Keep Building • Never Give Up 🚀
-
-*"The moment people come to know love, they run the risk of carrying hate."* — One Piece
+<h3>🦋 <i>Be a better you, for you.</i> 🦋</h3>
 
 </div>
-```
