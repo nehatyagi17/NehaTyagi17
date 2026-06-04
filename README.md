@@ -36,7 +36,7 @@
 
 🎓 **B.Tech Computer Science Engineering Student** at **Graphic Era Hill University**
 
-💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing**
+💻 Passionate about **Full Stack Development**, **Artificial Intelligence** and **Machine Learning**.
 
 🚀 Building impactful software solutions focused on solving real-world problems.
 
