@@ -64,7 +64,7 @@
 
 | Project | Description |
 |----------|------------|
-| 🤖 TalentSync-AI | AI-powered recruitment and hiring platform |
+| 🤖 SmartHiring | AI-powered recruitment and hiring platform |
 | 📈 Blinkit Price Prediction | Machine Learning-based forecasting system |
 | 🔒 Secure Rashan | Smart ration distribution management platform |
 | 🏠 PGify | Student accommodation management system |
